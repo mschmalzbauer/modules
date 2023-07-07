@@ -1,3 +1,3 @@
 output "az_location" {
-  value     = "West Europe"
+  value     = "West Europexx"
 }
